@@ -8,5 +8,5 @@ Current implementation supports following metrics:
 
 Future implementation should support following additional metrics:
 * Vanilla
- * Exporting World stats
- * Online Players
+  * Exporting World stats
+  * Online Players
