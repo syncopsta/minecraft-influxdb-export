@@ -1,2 +1,7 @@
 # minecraft-influxdb-export
-Exporting Minecraft Server metrics to an Influx Database
+Exporting Minecraft server metrics to an InfluxDB
+
+Current implementation supports following metrics:
+* Forge based servers
+  * Exporting ticks per second
+  * Exporting mean tick time
